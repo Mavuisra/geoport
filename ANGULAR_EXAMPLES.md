@@ -808,4 +808,4 @@ export class AuthGuard implements CanActivate {
 5. **Intégrer la carte** avec Leaflet
 6. **Tester le WebSocket** pour le temps réel
 
-**Votre collègue aura tout ce qu'il faut pour développer l'application Angular !** 🎉
+**voici tout ce qu'il faut pour développer l'application coté Angular !** 🎉
